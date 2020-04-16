@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Camille Regnault",
         "label": "Programmer",
         "picture": "",
         "email": "john@gmail.com",
@@ -30,7 +30,9 @@
             "startDate": "2014-01-01",
             "summary": "Description...",
             "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "highlights": [
+                "Started the company"
+            ]
         },
         {
             "name": "What a nice office",
@@ -40,7 +42,9 @@
             "endDate": "2014-01-01",
             "summary": "Description...",
             "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "highlights": [
+                "Started the company"
+            ]
         },
         {
             "name": "What a nice experience",
@@ -48,7 +52,9 @@
             "website": "http://company.com",
             "summary": "Description...",
             "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "highlights": [
+                "Started the company"
+            ]
         }
     ],
     "volunteer": [
@@ -58,7 +64,9 @@
             "website": "http://organization.com/",
             "endDate": "2013-01-01",
             "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
         }
     ],
     "education": [
@@ -69,7 +77,9 @@
             "startDate": "2011-01-01",
             "endDate": "2013-01-01",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
         },
         {
             "institution": "Université d'artois",
@@ -78,7 +88,9 @@
             "startDate": "2011-01-01",
             "endDate": "",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
         }
     ],
     "awards": [
@@ -103,40 +115,70 @@
             "name": "Reactaaa",
             "level": "Master",
             "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "Angular",
             "level": "Master",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "NodeJS",
             "level": "Master",
             "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "Firebase",
             "level": "Master",
             "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "Gmail",
             "level": "Master",
             "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "K8S",
             "level": "Master",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        {
+            "language": "English",
+            "value": 100,
+            "fluency": "Native speaker"
+        }
+    ],
     "interests": [
         {
             "name": "Burritos",
@@ -158,7 +200,12 @@
             "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ],
     "projects": [
         {
             "name": "Développement d'un serpent connecté",
@@ -173,21 +220,40 @@
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
+                {
+                    "name": "Valenciennes, France"
+                },
+                {
+                    "name": "Lille, France"
+                },
+                {
+                    "name": "Paris,France"
+                },
+                {
+                    "name": "Paris,France"
+                },
+                {
+                    "name": "Lille, France"
+                },
+                {
+                    "name": "Valenciennes, France"
+                }
             ],
             "remoteFrequency": "regularly"
         },
         "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
+            "issues": {
+                "boring_management": true,
+                "boring_team": true
+            }
         },
-        "education": { "studiesLevel": 5 },
+        "education": {
+            "studiesLevel": 5
+        },
         "work": {
-            "contractTypes": ["permanent"],
+            "contractTypes": [
+                "permanent"
+            ],
             "codingYears": 7,
             "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
             "searchState": "activelySearching",
@@ -204,16 +270,46 @@
             "alt": "Default Banner"
         },
         "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            }
         ],
         "fields": {
             "work": {
